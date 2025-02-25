@@ -1,7 +1,5 @@
 # SE-DAY-2-GIT-AND-GITHUB
 Understanding Version Control and GitHub
-
- Fundamental Concepts of Version Control
 Version control is a system that records changes to files over time, allowing multiple developers to collaborate efficiently. It ensures that previous versions of code are preserved, enabling rollback to earlier states if needed. Git is a distributed version control system, meaning each contributor has a complete copy of the repository, making collaboration seamless.
 
 GitHub is a widely used platform for managing Git repositories. It provides cloud-based hosting, collaboration features, and integration with various tools, making it a go-to choice for developers worldwide. It helps maintain project integrity by tracking changes, preventing conflicts, and enabling multiple developers to work concurrently.
